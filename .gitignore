@@ -135,3 +135,5 @@ dmypy.json
 notebooks/data
 
 **/*/.DS_Store
+
+/others
